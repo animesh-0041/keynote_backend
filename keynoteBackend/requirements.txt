@@ -1,0 +1,12 @@
+asgiref==3.7.2
+autopep8==1.6.0
+distlib==0.3.7
+Django==4.2.4
+filelock==3.12.2
+platformdirs==3.10.0
+pycodestyle==2.8.0
+sqlparse==0.4.4
+toml==0.10.2
+typing_extensions==4.7.1
+tzdata==2023.3
+virtualenv==20.24.2
