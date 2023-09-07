@@ -20,7 +20,7 @@ from student_courses import views
 from api import views
 from assignment import views
 
-
+from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 
 
 urlpatterns = [
@@ -33,3 +33,5 @@ urlpatterns = [
 
       
 ]
+
+urlpatterns +=staticfiles_urlpatterns()
